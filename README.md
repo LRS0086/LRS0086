@@ -11,9 +11,9 @@ Adoro aprender, compartilhar conhecimento e transformar desafios em oportunidade
 - 🌐 Interesse: Desenvolvimento de sistemas, automação e soluções acessíveis  
 
 ## 🚀 Projetos em Destaque
-- [Sistema de Biblioteca Escolar](link) – Sistema para controle de empréstimos de livros, com foco em alunos e professores.  
-- [Projeto de TI X](link) – Breve descrição do projeto.  
-- [Projeto de TI Y](link) – Breve descrição do projeto.  
+- [[Sistema de Biblioteca Escolar](https://github.com/LRS0086/SistemaBiblioteca.git)](link) – Sistema para controle de empréstimos de livros, com foco em alunos e professores.  
+- [Projeto de TI ](link) – Breve descrição do projeto.  
+- [Projeto de TI ](link) – Breve descrição do projeto.  
 
 ## 📫 Contato
 - 📧 Email: leonardorodrisou@yahoo.com  
