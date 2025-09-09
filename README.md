@@ -1,16 +1,28 @@
-## Hi there 👋
+# Olá, eu sou o Leonardo 👂💻💡
 
-<!--
-**LRS0086/LRS0086** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
+Sou graduando em **Sistemas de Informação**, apaixonado por **TI e inovação**.  
+Como usuário de **implante coclear**. 
+Adoro aprender, compartilhar conhecimento e transformar desafios em oportunidades.
 
-Here are some ideas to get you started:
+## 🛠 Ferramentas e Tecnologias
+- 💻 Linguagens: Java
+- ⚡ Ferramentas: Git, GitHub, Excel  
+- 🌐 Interesse: Desenvolvimento de sistemas, automação e soluções acessíveis  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projetos em Destaque
+- [Sistema de Biblioteca Escolar](link) – Sistema para controle de empréstimos de livros, com foco em alunos e professores.  
+- [Projeto de TI X](link) – Breve descrição do projeto.  
+- [Projeto de TI Y](link) – Breve descrição do projeto.  
+
+## 📫 Contato
+- 📧 Email: leonardorodrisou@yahoo.com  
+- 🔗 LinkedIn: [[Seu LinkedIn](https://www.linkedin.com/in/leonardo-rodrigues-de-souza-1b869b199?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B67MOX5%2BqRMicFaR0M0ARAg%3D%3D)](link)  
+
+## 🎸 Curiosidades
+- 🎶 Amo rock clássico  
+- 🌿 Adoro natureza e passar tempo com a família  
+- 🏊🏽 Curto atividades no sítio e piscina  
+
+✨ Sempre aprendendo e buscando criar soluções que tornem a tecnologia mais **acessível e inclusiva**!
+
