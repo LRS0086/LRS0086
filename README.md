@@ -6,7 +6,7 @@ Como usuário de **implante coclear**.
 Adoro aprender, compartilhar conhecimento e transformar desafios em oportunidades.
 
 ## 🛠 Ferramentas e Tecnologias
-- 💻 Linguagens: Java
+- 💻 Linguagens*: Java
 - ⚡ Ferramentas: Git, GitHub, Excel  
 - 🌐 Interesse: Desenvolvimento de sistemas, automação e soluções acessíveis  
 
