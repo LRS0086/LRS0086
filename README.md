@@ -1,4 +1,4 @@
-#Olá, Eu sou o Leonardo 🦻💻💡
+# Olá, Eu sou o Leonardo 🦻💻💡
 
 ## Sobre mim
 Sou graduando em **Sistemas de Informação**, apaixonado por **TI e inovação**.  
